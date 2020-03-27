@@ -601,3 +601,358 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.27-17.25.34:706][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2020.03.27-17.25.35:584][ 98]LogAssetRegistry: Asset discovery search completed in 5.7636 seconds
 [2020.03.27-17.25.35:587][ 98]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2020.03.27-17.26.22:071][  2]LogRenderer: Reallocating scene render targets to support 452x648 Format 10 NumSamples 1 (Frame:875).
+[2020.03.27-17.26.22:098][  3]LogRenderer: Reallocating scene render targets to support 464x648 Format 10 NumSamples 1 (Frame:877).
+[2020.03.27-17.26.22:129][  4]LogRenderer: Reallocating scene render targets to support 500x648 Format 10 NumSamples 1 (Frame:879).
+[2020.03.27-17.26.22:160][  5]LogRenderer: Reallocating scene render targets to support 556x648 Format 10 NumSamples 1 (Frame:881).
+[2020.03.27-17.26.22:190][  6]LogRenderer: Reallocating scene render targets to support 604x648 Format 10 NumSamples 1 (Frame:883).
+[2020.03.27-17.26.22:224][  7]LogRenderer: Reallocating scene render targets to support 636x648 Format 10 NumSamples 1 (Frame:885).
+[2020.03.27-17.26.22:251][  8]LogRenderer: Reallocating scene render targets to support 680x648 Format 10 NumSamples 1 (Frame:887).
+[2020.03.27-17.26.22:277][  9]LogRenderer: Reallocating scene render targets to support 696x648 Format 10 NumSamples 1 (Frame:889).
+[2020.03.27-17.26.22:303][ 10]LogRenderer: Reallocating scene render targets to support 712x648 Format 10 NumSamples 1 (Frame:891).
+[2020.03.27-17.26.22:330][ 11]LogRenderer: Reallocating scene render targets to support 736x648 Format 10 NumSamples 1 (Frame:893).
+[2020.03.27-17.26.22:354][ 12]LogRenderer: Reallocating scene render targets to support 764x648 Format 10 NumSamples 1 (Frame:895).
+[2020.03.27-17.26.22:379][ 13]LogRenderer: Reallocating scene render targets to support 784x648 Format 10 NumSamples 1 (Frame:897).
+[2020.03.27-17.26.22:405][ 14]LogRenderer: Reallocating scene render targets to support 800x648 Format 10 NumSamples 1 (Frame:899).
+[2020.03.27-17.26.22:431][ 15]LogRenderer: Reallocating scene render targets to support 812x648 Format 10 NumSamples 1 (Frame:901).
+[2020.03.27-17.26.22:458][ 16]LogRenderer: Reallocating scene render targets to support 816x648 Format 10 NumSamples 1 (Frame:903).
+[2020.03.27-17.26.22:482][ 17]LogRenderer: Reallocating scene render targets to support 820x648 Format 10 NumSamples 1 (Frame:905).
+[2020.03.27-17.26.23:620][151]LogRenderer: Reallocating scene render targets to support 824x648 Format 10 NumSamples 1 (Frame:909).
+[2020.03.27-17.26.23:648][152]LogRenderer: Reallocating scene render targets to support 828x648 Format 10 NumSamples 1 (Frame:911).
+[2020.03.27-17.26.23:675][153]LogRenderer: Reallocating scene render targets to support 840x648 Format 10 NumSamples 1 (Frame:913).
+[2020.03.27-17.26.23:704][154]LogRenderer: Reallocating scene render targets to support 848x648 Format 10 NumSamples 1 (Frame:915).
+[2020.03.27-17.26.23:770][158]LogRenderer: Reallocating scene render targets to support 852x648 Format 10 NumSamples 1 (Frame:919).
+[2020.03.27-17.26.23:800][159]LogRenderer: Reallocating scene render targets to support 856x648 Format 10 NumSamples 1 (Frame:921).
+[2020.03.27-17.26.23:829][160]LogRenderer: Reallocating scene render targets to support 860x648 Format 10 NumSamples 1 (Frame:923).
+[2020.03.27-17.26.23:923][166]LogRenderer: Reallocating scene render targets to support 864x648 Format 10 NumSamples 1 (Frame:929).
+[2020.03.27-17.29.58:093][ 95]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.27-17.30.24:996][883]LogSlate: Window 'Save Level As' being destroyed
+[2020.03.27-17.30.25:011][883]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.27-17.30.25:030][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LetsCreateMap" FILE="D:/estudiExamen/estudiExamen/Content/Maps/LetsCreateMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.27-17.30.25:057][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.03.27-17.30.25:069][883]LogSavePackage: Moving 'D:/estudiExamen/estudiExamen/Saved/LetsCreateMap3B6A55A94974BC2875D188AD6F6484DE.tmp' to 'D:/estudiExamen/estudiExamen/Content/Maps/LetsCreateMap.umap'
+[2020.03.27-17.30.25:078][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LetsCreateMap_BuiltData" FILE="D:/estudiExamen/estudiExamen/Content/Maps/LetsCreateMap_BuiltData.uasset" SILENT=true
+[2020.03.27-17.30.25:086][883]LogSavePackage: Moving 'D:/estudiExamen/estudiExamen/Saved/LetsCreateMap_BuiltData859712224FD159DA54D82CBCE98A66E7.tmp' to 'D:/estudiExamen/estudiExamen/Content/Maps/LetsCreateMap_BuiltData.uasset'
+[2020.03.27-17.30.25:097][883]LogFileHelpers: Saving map 'LetsCreateMap' took 0.090
+[2020.03.27-17.30.25:103][883]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.27-17.30.25:103][883]LogContentValidation: Display: Validating World /Game/Maps/LetsCreateMap.LetsCreateMap
+[2020.03.27-17.30.25:103][883]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LetsCreateMap_BuiltData.LetsCreateMap_BuiltData
+[2020.03.27-17.30.30:417][510]LogObjectTools: Deleting 1 worlds: /Game/Blueprints/NewWorld.NewWorld
+[2020.03.27-17.30.30:417][510]LogObjectTools: Currently 1 active worlds: /Game/Maps/LetsCreateMap.LetsCreateMap
+[2020.03.27-17.30.30:445][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.03.27-17.30.31:516][510]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.27-17.30.31:530][510]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2020.03.27-17.30.31:530][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-17.30.31:593][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.03.27-17.30.39:559][669]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.03.27-17.30.51:840][136]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/FPSController.FPSController
+[2020.03.27-17.30.52:008][136]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 121 classes and 0 folders.
+[2020.03.27-17.30.52:814][136]LogRenderer: Reallocating scene render targets to support 948x648 Format 10 NumSamples 1 (Frame:1).
+[2020.03.27-17.30.53:855][250]LogSlate: Window 'FPSController' being destroyed
+[2020.03.27-17.30.56:605][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.03.27-17.30.56:625][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPSController" FILE="D:/estudiExamen/estudiExamen/Content/Blueprints/FPSController.uasset" SILENT=true
+[2020.03.27-17.30.56:630][572]LogSavePackage: Moving 'D:/estudiExamen/estudiExamen/Saved/FPSController78F700494CA042463887A8BBE1A33527.tmp' to 'D:/estudiExamen/estudiExamen/Content/Blueprints/FPSController.uasset'
+[2020.03.27-17.30.56:649][572]AssetCheck: New page: Asset Save: FPSController
+[2020.03.27-17.30.56:649][572]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FPSController.FPSController
+[2020.03.27-17.30.56:713][579]LogSlate: Took 0.003885 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.27-17.40.13:455][163]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.03.27-17.40.13:456][163]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/LetsCreateMap' took 0.034
+[2020.03.27-17.40.13:457][163]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/FPSController] ([1] browsable assets)...
+[2020.03.27-17.40.13:457][163]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/FPSController]
+[2020.03.27-17.40.13:457][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPSController" FILE="D:/estudiExamen/estudiExamen/Saved/Autosaves/Game/Blueprints/FPSController_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.03.27-17.40.13:468][163]LogSavePackage: Moving 'D:/estudiExamen/estudiExamen/Saved/FPSController_Auto1E99AF1AE40F701E74AA84FAE31449657.tmp' to 'D:/estudiExamen/estudiExamen/Saved/Autosaves/Game/Blueprints/FPSController_Auto1.uasset'
+[2020.03.27-17.40.13:472][163]LogFileHelpers: Auto-saving content packages took 0.017
+[2020.03.27-17.42.14:955][288]BlueprintLog: New page: Compile FPSController
+[2020.03.27-17.42.15:120][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.03.27-17.42.15:932][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPSController" FILE="D:/estudiExamen/estudiExamen/Content/Blueprints/FPSController.uasset" SILENT=true
+[2020.03.27-17.42.15:937][380]LogSavePackage: Moving 'D:/estudiExamen/estudiExamen/Saved/FPSController7E927C5B41E65DE23D40EA83FF65B7A7.tmp' to 'D:/estudiExamen/estudiExamen/Content/Blueprints/FPSController.uasset'
+[2020.03.27-17.42.15:952][380]AssetCheck: New page: Asset Save: FPSController
+[2020.03.27-17.42.15:952][380]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FPSController.FPSController
+[2020.03.27-17.42.28:725][478]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.03.27-17.42.48:492][845]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/FPSGameMode.FPSGameMode
+[2020.03.27-17.43.17:314][243]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.27-17.44.02:462][459]BlueprintLog: New page: Compile FPSGameMode
+[2020.03.27-17.44.02:629][459]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.03.27-17.44.03:393][549]BlueprintLog: New page: Compile FPSGameMode
+[2020.03.27-17.44.03:558][549]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.03.27-17.44.30:579][116]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.27-17.44.39:345][160]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.27-17.44.39:349][160]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.27-17.44.42:895][572]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.27-17.44.42:904][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.27-17.44.42:905][572]PIE: New page: PIE session: LetsCreateMap (Mar 27, 2020, 7:44:42 PM)
+[2020.03.27-17.44.42:906][572]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.03.27-17.44.42:907][572]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.03.27-17.44.42:907][572]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LetsCreateMap
+[2020.03.27-17.44.42:909][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001911s)
+[2020.03.27-17.44.42:913][572]LogAIModule: Creating AISystem for world LetsCreateMap
+[2020.03.27-17.44.42:913][572]LogPlayLevel: PIE: World Init took: (0.003760s)
+[2020.03.27-17.44.42:913][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LetsCreateMap.LetsCreateMap to /Game/Maps/UEDPIE_0_LetsCreateMap.LetsCreateMap (0.005840s)
+[2020.03.27-17.44.42:961][572]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.03.27-17.44.42:963][572]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.27-17.44.42:963][572]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.27-17.44.42:963][572]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.27-17.44.42:963][572]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.27-17.44.42:963][572]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.27-17.44.42:963][572]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.27-17.44.42:963][572]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.27-17.44.42:963][572]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.27-17.44.42:964][572]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.27-17.44.42:964][572]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.27-17.44.42:974][572]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.27-17.44.42:974][572]LogAudioMixer: Display: Name: Speaker / Headphone (Realtek(R) Audio)
+[2020.03.27-17.44.42:974][572]LogAudioMixer: Display: Is Default: Yes
+[2020.03.27-17.44.42:974][572]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.27-17.44.42:974][572]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.27-17.44.42:974][572]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.27-17.44.42:974][572]LogAudioMixer: Display: Channel Order:
+[2020.03.27-17.44.42:974][572]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.27-17.44.42:974][572]LogAudioMixer: Display: 1: FrontRight
+[2020.03.27-17.44.43:007][572]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2020.03.27-17.44.43:009][572]LogInit: FAudioDevice initialized.
+[2020.03.27-17.44.43:019][572]LogLoad: Game class is 'FPSGameMode_C'
+[2020.03.27-17.44.43:020][572]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LetsCreateMap.LetsCreateMap up for play (max tick rate 0) at 2020.03.27-18.44.43
+[2020.03.27-17.44.43:020][572]LogWorld: Bringing up level for play took: 0.000408
+[2020.03.27-17.44.43:020][572]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.03.27-17.44.43:025][572]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.03.27-17.44.43:026][572]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LetsCreateMap 1.021
+[2020.03.27-17.44.45:783][870]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-17.44.45:783][870]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-17.44.45:783][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-17.44.45:783][870]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LetsCreateMap
+[2020.03.27-17.44.45:783][870]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-17.44.45:784][870]LogWorld: UWorld::CleanupWorld for LetsCreateMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.27-17.44.45:784][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-17.44.45:793][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.27-17.44.45:799][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-17.44.45:829][870]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-17.44.45:834][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-17.44.45:866][870]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.03.27-17.44.45:900][872]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.03.27-17.44.49:724][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.03.27-17.44.49:742][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPSGameMode" FILE="D:/estudiExamen/estudiExamen/Content/Blueprints/FPSGameMode.uasset" SILENT=true
+[2020.03.27-17.44.49:746][318]LogSavePackage: Moving 'D:/estudiExamen/estudiExamen/Saved/FPSGameMode5D7120F0463A2EB48DE743B519D90EE9.tmp' to 'D:/estudiExamen/estudiExamen/Content/Blueprints/FPSGameMode.uasset'
+[2020.03.27-17.44.49:762][318]AssetCheck: New page: Asset Save: FPSGameMode
+[2020.03.27-17.44.49:762][318]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FPSGameMode.FPSGameMode
+[2020.03.27-17.47.05:228][944]Cmd: TRANSACTION UNDO
+[2020.03.27-17.47.05:228][944]LogEditorTransaction: Undo Remove Axis Mapping Group
+[2020.03.27-17.48.49:016][115]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.27-17.48.49:021][115]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.27-17.48.52:662][379]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.03.27-17.49.19:565][975]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.27-17.49.19:570][975]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.27-17.49.21:274][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.03.27-17.49.25:286][628]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.27-17.50.00:220][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPSController" FILE="D:/estudiExamen/estudiExamen/Content/Blueprints/FPSController.uasset" SILENT=true
+[2020.03.27-17.50.00:228][124]LogSavePackage: Moving 'D:/estudiExamen/estudiExamen/Saved/FPSController03ED249C4481BC841D6B9D84CD1B4004.tmp' to 'D:/estudiExamen/estudiExamen/Content/Blueprints/FPSController.uasset'
+[2020.03.27-17.50.00:249][124]AssetCheck: New page: Asset Save: FPSController
+[2020.03.27-17.50.00:249][124]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FPSController.FPSController
+[2020.03.27-17.50.24:853][646]BlueprintLog: New page: Compile FPSController
+[2020.03.27-17.50.25:064][646]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.03.27-17.50.25:242][664]BlueprintLog: New page: Compile FPSController
+[2020.03.27-17.50.25:460][664]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.03.27-17.50.27:111][848]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.03.27-17.50.27:130][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPSController" FILE="D:/estudiExamen/estudiExamen/Content/Blueprints/FPSController.uasset" SILENT=true
+[2020.03.27-17.50.27:137][848]LogSavePackage: Moving 'D:/estudiExamen/estudiExamen/Saved/FPSControllerAB8C34C74D83177756627FB072EA6B84.tmp' to 'D:/estudiExamen/estudiExamen/Content/Blueprints/FPSController.uasset'
+[2020.03.27-17.50.27:154][848]AssetCheck: New page: Asset Save: FPSController
+[2020.03.27-17.50.27:154][848]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FPSController.FPSController
+[2020.03.27-17.51.05:381][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPSController" FILE="D:/estudiExamen/estudiExamen/Content/Blueprints/FPSController.uasset" SILENT=true
+[2020.03.27-17.51.05:388][556]LogSavePackage: Moving 'D:/estudiExamen/estudiExamen/Saved/FPSController29B8B4A44C0496FD04A0A4B3318939A5.tmp' to 'D:/estudiExamen/estudiExamen/Content/Blueprints/FPSController.uasset'
+[2020.03.27-17.51.05:404][556]AssetCheck: New page: Asset Save: FPSController
+[2020.03.27-17.51.05:404][556]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FPSController.FPSController
+[2020.03.27-17.51.09:686][820]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.03.27-17.51.21:179][172]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.27-17.51.21:189][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.27-17.51.21:189][172]PIE: New page: PIE session: LetsCreateMap (Mar 27, 2020, 7:51:21 PM)
+[2020.03.27-17.51.21:189][172]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LetsCreateMap
+[2020.03.27-17.51.21:191][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001734s)
+[2020.03.27-17.51.21:191][172]LogAIModule: Creating AISystem for world LetsCreateMap
+[2020.03.27-17.51.21:192][172]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2020.03.27-17.51.21:192][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LetsCreateMap.LetsCreateMap to /Game/Maps/UEDPIE_0_LetsCreateMap.LetsCreateMap (0.002936s)
+[2020.03.27-17.51.21:230][172]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.03.27-17.51.21:231][172]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.27-17.51.21:231][172]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.27-17.51.21:231][172]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.27-17.51.21:231][172]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.27-17.51.21:231][172]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.27-17.51.21:231][172]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.27-17.51.21:231][172]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.27-17.51.21:231][172]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.27-17.51.21:231][172]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.27-17.51.21:231][172]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.27-17.51.21:241][172]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.27-17.51.21:241][172]LogAudioMixer: Display: Name: Speaker / Headphone (Realtek(R) Audio)
+[2020.03.27-17.51.21:241][172]LogAudioMixer: Display: Is Default: Yes
+[2020.03.27-17.51.21:241][172]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.27-17.51.21:241][172]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.27-17.51.21:241][172]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.27-17.51.21:241][172]LogAudioMixer: Display: Channel Order:
+[2020.03.27-17.51.21:241][172]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.27-17.51.21:241][172]LogAudioMixer: Display: 1: FrontRight
+[2020.03.27-17.51.21:275][172]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2020.03.27-17.51.21:276][172]LogInit: FAudioDevice initialized.
+[2020.03.27-17.51.21:284][172]LogLoad: Game class is 'FPSGameMode_C'
+[2020.03.27-17.51.21:285][172]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LetsCreateMap.LetsCreateMap up for play (max tick rate 0) at 2020.03.27-18.51.21
+[2020.03.27-17.51.21:285][172]LogWorld: Bringing up level for play took: 0.000422
+[2020.03.27-17.51.21:285][172]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.03.27-17.51.21:287][172]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LetsCreateMap -0.718
+[2020.03.27-17.51.25:800][711]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-17.51.25:818][711]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.27-17.51.25:838][711]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.27-17.51.25:839][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-17.51.25:839][711]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LetsCreateMap
+[2020.03.27-17.51.25:839][711]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-17.51.25:839][711]LogWorld: UWorld::CleanupWorld for LetsCreateMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.27-17.51.25:839][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-17.51.25:848][711]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.27-17.51.25:852][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-17.51.25:884][711]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-17.51.25:889][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-17.51.25:892][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.03.27-17.51.25:907][712]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.03.27-17.51.29:278][104]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.03.27-17.51.29:278][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-17.51.43:861][228]BlueprintLog: New page: Compile FPSController
+[2020.03.27-17.51.44:075][228]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.03.27-17.52.02:912][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPSController" FILE="D:/estudiExamen/estudiExamen/Content/Blueprints/FPSController.uasset" SILENT=true
+[2020.03.27-17.52.02:919][298]LogSavePackage: Moving 'D:/estudiExamen/estudiExamen/Saved/FPSControllerD6982EDA43284406CC57F9992291D11A.tmp' to 'D:/estudiExamen/estudiExamen/Content/Blueprints/FPSController.uasset'
+[2020.03.27-17.52.02:935][298]AssetCheck: New page: Asset Save: FPSController
+[2020.03.27-17.52.02:935][298]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FPSController.FPSController
+[2020.03.27-17.52.54:686][748]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.03.27-17.52.54:687][748]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/LetsCreateMap' took 0.038
+[2020.03.27-17.52.54:687][748]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/FPSController] ([1] browsable assets)...
+[2020.03.27-17.52.54:687][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/FPSController]
+[2020.03.27-17.52.54:687][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPSController" FILE="D:/estudiExamen/estudiExamen/Saved/Autosaves/Game/Blueprints/FPSController_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.27-17.52.54:696][748]LogSavePackage: Moving 'D:/estudiExamen/estudiExamen/Saved/FPSController_Auto2A8012EFC41DA314B5AF515B869BF942B.tmp' to 'D:/estudiExamen/estudiExamen/Saved/Autosaves/Game/Blueprints/FPSController_Auto2.uasset'
+[2020.03.27-17.52.54:700][748]LogFileHelpers: Auto-saving content packages took 0.013
+[2020.03.27-18.02.36:098][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPSController" FILE="D:/estudiExamen/estudiExamen/Content/Blueprints/FPSController.uasset" SILENT=true
+[2020.03.27-18.02.36:107][678]LogSavePackage: Moving 'D:/estudiExamen/estudiExamen/Saved/FPSControllerD4D0576B42A2AFF06FE66CBCB471F63A.tmp' to 'D:/estudiExamen/estudiExamen/Content/Blueprints/FPSController.uasset'
+[2020.03.27-18.02.36:129][678]AssetCheck: New page: Asset Save: FPSController
+[2020.03.27-18.02.36:129][678]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FPSController.FPSController
+[2020.03.27-18.06.05:966][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.03.27-18.06.05:967][300]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/LetsCreateMap' took 0.032
+[2020.03.27-18.06.05:967][300]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/FPSController] ([1] browsable assets)...
+[2020.03.27-18.06.05:968][300]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/FPSController]
+[2020.03.27-18.06.05:968][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPSController" FILE="D:/estudiExamen/estudiExamen/Saved/Autosaves/Game/Blueprints/FPSController_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.03.27-18.06.05:976][300]LogSavePackage: Moving 'D:/estudiExamen/estudiExamen/Saved/FPSController_Auto346D75ABB4EE8913EE3403191F42682F6.tmp' to 'D:/estudiExamen/estudiExamen/Saved/Autosaves/Game/Blueprints/FPSController_Auto3.uasset'
+[2020.03.27-18.06.05:980][300]LogFileHelpers: Auto-saving content packages took 0.013
+[2020.03.27-18.10.44:523][  4]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.27-18.10.44:525][  4]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.27-18.16.26:458][400]BlueprintLog: New page: Compile FPSController
+[2020.03.27-18.16.26:684][400]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.03.27-18.16.27:381][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPSController" FILE="D:/estudiExamen/estudiExamen/Content/Blueprints/FPSController.uasset" SILENT=true
+[2020.03.27-18.16.27:392][440]LogSavePackage: Moving 'D:/estudiExamen/estudiExamen/Saved/FPSController6E6972A44A68163B0802DE9376E89F83.tmp' to 'D:/estudiExamen/estudiExamen/Content/Blueprints/FPSController.uasset'
+[2020.03.27-18.16.27:412][440]AssetCheck: New page: Asset Save: FPSController
+[2020.03.27-18.16.27:412][440]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FPSController.FPSController
+[2020.03.27-18.16.28:953][530]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.03.27-18.16.32:576][746]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.27-18.16.32:585][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.27-18.16.32:585][746]PIE: New page: PIE session: LetsCreateMap (Mar 27, 2020, 8:16:32 PM)
+[2020.03.27-18.16.32:585][746]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LetsCreateMap
+[2020.03.27-18.16.32:587][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001805s)
+[2020.03.27-18.16.32:587][746]LogAIModule: Creating AISystem for world LetsCreateMap
+[2020.03.27-18.16.32:588][746]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2020.03.27-18.16.32:588][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LetsCreateMap.LetsCreateMap to /Game/Maps/UEDPIE_0_LetsCreateMap.LetsCreateMap (0.002891s)
+[2020.03.27-18.16.32:618][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.03.27-18.16.32:618][746]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.27-18.16.32:618][746]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.27-18.16.32:618][746]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.27-18.16.32:618][746]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.27-18.16.32:618][746]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.27-18.16.32:618][746]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.27-18.16.32:618][746]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.27-18.16.32:618][746]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.27-18.16.32:619][746]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.27-18.16.32:619][746]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.27-18.16.32:629][746]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.27-18.16.32:629][746]LogAudioMixer: Display: Name: Speaker / Headphone (Realtek(R) Audio)
+[2020.03.27-18.16.32:629][746]LogAudioMixer: Display: Is Default: Yes
+[2020.03.27-18.16.32:629][746]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.27-18.16.32:629][746]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.27-18.16.32:629][746]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.27-18.16.32:629][746]LogAudioMixer: Display: Channel Order:
+[2020.03.27-18.16.32:629][746]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.27-18.16.32:629][746]LogAudioMixer: Display: 1: FrontRight
+[2020.03.27-18.16.32:663][746]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2020.03.27-18.16.32:665][746]LogInit: FAudioDevice initialized.
+[2020.03.27-18.16.32:674][746]LogLoad: Game class is 'FPSGameMode_C'
+[2020.03.27-18.16.32:675][746]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LetsCreateMap.LetsCreateMap up for play (max tick rate 60) at 2020.03.27-19.16.32
+[2020.03.27-18.16.32:675][746]LogWorld: Bringing up level for play took: 0.000405
+[2020.03.27-18.16.32:675][746]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.03.27-18.16.32:677][746]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LetsCreateMap 0.672
+[2020.03.27-18.16.38:877][117]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-18.16.38:877][117]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-18.16.38:877][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-18.16.38:877][117]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LetsCreateMap
+[2020.03.27-18.16.38:877][117]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-18.16.38:877][117]LogWorld: UWorld::CleanupWorld for LetsCreateMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.27-18.16.38:877][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-18.16.38:886][117]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.27-18.16.38:891][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-18.16.38:925][117]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-18.16.38:929][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-18.16.38:932][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.03.27-18.16.38:991][120]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.03.27-18.16.55:804][993]LogEditorTransaction: Undo Move Node
+[2020.03.27-18.16.58:663][157]BlueprintLog: New page: Compile FPSController
+[2020.03.27-18.16.58:877][157]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.03.27-18.16.59:757][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPSController" FILE="D:/estudiExamen/estudiExamen/Content/Blueprints/FPSController.uasset" SILENT=true
+[2020.03.27-18.16.59:767][208]LogSavePackage: Moving 'D:/estudiExamen/estudiExamen/Saved/FPSControllerA58F50BC46E70A085BC00BAC4C37954A.tmp' to 'D:/estudiExamen/estudiExamen/Content/Blueprints/FPSController.uasset'
+[2020.03.27-18.16.59:782][208]AssetCheck: New page: Asset Save: FPSController
+[2020.03.27-18.16.59:782][208]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FPSController.FPSController
+[2020.03.27-18.17.01:970][339]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.27-18.17.01:976][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.27-18.17.01:977][339]PIE: New page: PIE session: LetsCreateMap (Mar 27, 2020, 8:17:01 PM)
+[2020.03.27-18.17.01:977][339]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LetsCreateMap
+[2020.03.27-18.17.01:978][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001729s)
+[2020.03.27-18.17.01:979][339]LogAIModule: Creating AISystem for world LetsCreateMap
+[2020.03.27-18.17.01:979][339]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2020.03.27-18.17.01:979][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LetsCreateMap.LetsCreateMap to /Game/Maps/UEDPIE_0_LetsCreateMap.LetsCreateMap (0.002681s)
+[2020.03.27-18.17.02:009][339]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.03.27-18.17.02:009][339]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.27-18.17.02:009][339]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.27-18.17.02:009][339]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.27-18.17.02:009][339]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.27-18.17.02:009][339]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.27-18.17.02:009][339]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.27-18.17.02:009][339]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.27-18.17.02:009][339]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.27-18.17.02:009][339]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.27-18.17.02:009][339]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.27-18.17.02:019][339]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.27-18.17.02:019][339]LogAudioMixer: Display: Name: Speaker / Headphone (Realtek(R) Audio)
+[2020.03.27-18.17.02:019][339]LogAudioMixer: Display: Is Default: Yes
+[2020.03.27-18.17.02:019][339]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.27-18.17.02:019][339]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.27-18.17.02:019][339]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.27-18.17.02:019][339]LogAudioMixer: Display: Channel Order:
+[2020.03.27-18.17.02:019][339]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.27-18.17.02:019][339]LogAudioMixer: Display: 1: FrontRight
+[2020.03.27-18.17.02:053][339]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2020.03.27-18.17.02:055][339]LogInit: FAudioDevice initialized.
+[2020.03.27-18.17.02:062][339]LogLoad: Game class is 'FPSGameMode_C'
+[2020.03.27-18.17.02:063][339]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LetsCreateMap.LetsCreateMap up for play (max tick rate 60) at 2020.03.27-19.17.02
+[2020.03.27-18.17.02:063][339]LogWorld: Bringing up level for play took: 0.000391
+[2020.03.27-18.17.02:063][339]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.03.27-18.17.02:065][339]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LetsCreateMap 0.06
+[2020.03.27-18.17.10:391][838]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-18.17.10:399][838]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.27-18.17.10:419][838]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.27-18.17.10:419][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-18.17.10:419][838]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LetsCreateMap
+[2020.03.27-18.17.10:419][838]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-18.17.10:419][838]LogWorld: UWorld::CleanupWorld for LetsCreateMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.27-18.17.10:420][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-18.17.10:427][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.27-18.17.10:432][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-18.17.10:465][838]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-18.17.10:470][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-18.17.10:473][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.03.27-18.17.10:504][840]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.03.27-18.17.36:932][366]BlueprintLog: New page: Compile FPSController
+[2020.03.27-18.17.37:143][366]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.03.27-18.17.39:645][512]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.03.27-18.17.39:658][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPSController" FILE="D:/estudiExamen/estudiExamen/Content/Blueprints/FPSController.uasset" SILENT=true
+[2020.03.27-18.17.39:668][512]LogSavePackage: Moving 'D:/estudiExamen/estudiExamen/Saved/FPSController12EF61F64860C504EE2B7BA76DD8360B.tmp' to 'D:/estudiExamen/estudiExamen/Content/Blueprints/FPSController.uasset'
+[2020.03.27-18.17.39:685][512]AssetCheck: New page: Asset Save: FPSController
+[2020.03.27-18.17.39:685][512]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FPSController.FPSController
